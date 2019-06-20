@@ -12,7 +12,7 @@
 	<artifactId>GitTestRepo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>GitTestRepo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Webhool Demo project for Spring Boot</description>
 	<packaging>jar</packaging>
 
 	<properties>
